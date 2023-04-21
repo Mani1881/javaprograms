@@ -19,6 +19,9 @@ public class Arraylist
 	     //SET ELE
 	     list.set(0,89);
 	     System.out.println(list);
+		//add ele in b/w 
+		 list.add(2,78);
+		 System.out.println(list);
 		 //sort
 		 Collections.sort(list);
 		 System.out.println("Sorted List="+list);
