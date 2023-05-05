@@ -1,3 +1,4 @@
+//crate a push button and add it it to a  frame
 import java.awt.*;//for button
 import java.awt.event.*;//for action listener
 class But extends  Frame{
